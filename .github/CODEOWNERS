@@ -1,8 +1,5 @@
-# Default owners
-* @AnerGroup1/backend-team
-
 # Documentation
-/docs/ @AnerGroup1/platform-team
+/docs/ @Tejaswi-Aner
 
 # Infrastructure
 /terraform/ @AnerGroup1/devops-team
