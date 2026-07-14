@@ -1,11 +1,8 @@
-*@Tejaswi-Aner
-*@PraneethGoud4567
+# Default owners
+* @Tejaswi-Aner @PraneethGoud4567
 
 # Documentation
-/docs/ @Tejaswi-Aner
-
-# Infrastructure
-/terraform/ @AnerGroup1/devops-team
+/docs/ @PraneethGoud4567
 
 # GitHub configuration
 /.github/ @Tejaswi-Aner
